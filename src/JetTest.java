@@ -40,17 +40,6 @@ public class JetTest {
 			break;
 		case 4:
 			addJet();
-			//listFleet();
-			//System.out.println(j5);
-//			j5[5] = new Jet(jet.model, jet.speed, jet.range, jet.price);
-//			jets[5] = addJet(jet5);
-		
-//			Jet[] j6 = listFleet();
-//			jets[5] = new Jet();
-//			//Jet j4 = new Jet();
-//			j6[5] = addJet();
-//			//addJet(j4);
-//			//j4 = addJet(j4);
 			break;
 		case 5:
 			System.out.println("Thanks for using jets, buddy!");
